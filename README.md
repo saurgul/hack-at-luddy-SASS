@@ -1,4 +1,4 @@
-# hack-at-luddy-SASS
+# Team SASS
 Hack-at-luddy Hackathon Submission 
 
 Presentation and other files
